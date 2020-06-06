@@ -1,0 +1,20 @@
+x-X coordinates from both test and train dataset
+y-Ycoordinates from both test and train dataset
+subject- List of subjects that is 1 to 30
+
+body_acc_x- X coordinate of body accelarartion from both dataset
+body_acc_y- Y coordinate of body accelarartion from both dataset
+body_acc_z- Z coordinate of body accelarartion from both dataset
+
+body_gyro_x- X coordinate of body accelarartion from both dataset
+body_gyro_y- Y coordinate of body accelarartion from both dataset
+body_gyro_z- Z coordinate of body accelarartion from both dataset
+
+total_acc_x- X coordinate of body accelarartion from both dataset
+total_acc_y- Y coordinate of body accelarartion from both dataset
+total_acc_z- Z coordinate of body accelarartion from both dataset
+
+final-subject wise list of X and Y coordinates
+inertial-subject wise list of all coordinates of body accelaration , gyro accelaration and total accelaration
+
+tidy-final dataset of average values of each feature according to subject
